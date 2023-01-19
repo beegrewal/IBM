@@ -1,0 +1,29 @@
+body {
+    background: url(https://cdn.dribbble.com/users/211459/screenshots/14134418/media/914004ee83c7f6e223409cb854efa501.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+@media screen and (max-width:1544px) {
+   
+    img {
+        width: 80px;
+        height: 80px;
+       
+   
+    }
+
+body {
+    background: url(https://cdn.dribbble.com/users/211459/screenshots/14134418/media/914004ee83c7f6e223409cb854efa501.gif);
+   
+
+}
+
+
+
+
+
+
+
+}
