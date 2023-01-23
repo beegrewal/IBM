@@ -3,14 +3,18 @@ body {background: url(https://nstidehradun.files.wordpress.com/2019/11/nsti-dehr
     background-size: 100%;
     text-align: center;
     margin: 0;
-    padding: 15px;
+    padding: 200px;
 
 }
 h2 {
-    margin-top: 15%;
+   padding-top: 15px;
     font-size: 45px;
+    text-align: center;
+  
 }
-
+.button {
+    padding-top: 120px;
+}
 button {
     position: relative;
     text-decoration: none;

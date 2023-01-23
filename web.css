@@ -1,29 +1,57 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
 body {
     background: url(https://cdn.dribbble.com/users/211459/screenshots/14134418/media/914004ee83c7f6e223409cb854efa501.gif);
     background-repeat: no-repeat;
     background-size: 100%;
+   
 }
+
+
+
+img {
+
+    height: 80px;
+    align-items: center;
+  padding-right: 150px;
+  height: 90px;
+}
+
+.home {
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    padding-top: 100px;
+    height: 150px
+
+}
+h1 { padding-bottom: 30px;}
+
+
+.footer {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-size: large;
+    padding-top: 100px;
+}
+
+
 
 
 @media screen and (max-width:1544px) {
-   
     img {
         width: 80px;
         height: 80px;
-       
-   
+
+
     }
 
-body {
-    background: url(https://cdn.dribbble.com/users/211459/screenshots/14134418/media/914004ee83c7f6e223409cb854efa501.gif);
-   
-
-}
+    body {
+        background: url(https://cdn.dribbble.com/users/211459/screenshots/14134418/media/914004ee83c7f6e223409cb854efa501.gif);
 
 
-
-
-
-
-
+    }
 }
