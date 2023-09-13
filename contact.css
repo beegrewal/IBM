@@ -17,10 +17,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
 
 .card {
-    width: 90%;
+    width: 100%;
     max-width: 440px;
     color: #fff;
     text-align: center;
